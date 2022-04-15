@@ -1,0 +1,16 @@
+cd
+comando cmd 
+cd-navergar entre as pastas,cd / ir para a base , cd (nome da pasta) ir para pasta desejada, cd .. voltar , 
+dir-listar pastas que está situado
+mkdir-criar uma pasta 
+del / rmdir-
+cls- limpar
+echo- printar, echo hello > (nome do arquivo).txt
+
+
+del- deletar arquivo , del (nome do arquivo)
+rmdir- deletar pasta,rmdir (nome da pasta) /S /Q
+
+Link Download git:https://git-scm.com/download/win
+
+
